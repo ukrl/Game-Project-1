@@ -4,5 +4,6 @@
 void main()
 {
 	printf("This is a test");
+	printf("Modified");
 	getch();
 }
